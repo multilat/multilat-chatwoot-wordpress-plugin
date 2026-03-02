@@ -1,0 +1,4 @@
+# Exclude From Release Archives
+chatwoot-wp-plugin-admin-screenshot.jpg export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
