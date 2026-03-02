@@ -60,7 +60,7 @@ site — no JavaScript required:
 ### Option A: Upload ZIP
 
 1. Download `chatwoot-widget.zip` from the
-   [latest release](https://github.com/multilat/chatwoot-widget-for-wordpress/releases/latest)
+   [latest release](https://github.com/multilat/multilat-chatwoot-wordpress-plugin/releases/latest)
 2. Go to **WordPress Admin > Plugins > Add New > Upload Plugin**
 3. Upload the zip and click **Install Now**
 4. Click **Activate**
@@ -76,7 +76,7 @@ site — no JavaScript required:
 
 ```bash
 cd /path/to/wordpress/wp-content/plugins/
-git clone https://github.com/multilat/chatwoot-widget-for-wordpress.git
+git clone https://github.com/multilat/multilat-chatwoot-wordpress-plugin.git
 ```
 
 ## Configure
@@ -146,7 +146,7 @@ removed when the plugin is deleted.
 ## File Structure
 
 ```text
-chatwoot-widget-for-wordpress/
+multilat-chatwoot-wordpress-plugin/
 ├── chatwoot-widget.php    # Single-file plugin
 ├── LICENSE
 └── README.md
